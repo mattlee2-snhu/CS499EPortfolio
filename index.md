@@ -24,6 +24,7 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 2010-2018 - Waubonsee Community College
 
 2018-2020 – Southern New Hampshire University
+
 		3.548 GPA
 
 ## Academic Awards
