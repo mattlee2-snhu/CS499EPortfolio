@@ -27,9 +27,9 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 
 ### Aug 2018-Present - Southern New Hampshire University
 
-  i. Concentration in software engineering
+    i. Concentration in software engineering
   
-  ii. Developed security strategies to create error free code
+    ii. Developed security strategies to create error free code
 
 # ACADEMIC AWARDS
 
