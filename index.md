@@ -30,6 +30,6 @@ Aug 2018-Present - Southern New Hampshire University
 Feb 2018 - Certifacte from Workforce Development at Wabuonsee Community College for Python Developer Program(155-hour online program)
 
 ## Contact Me
-[mattr.lee18@gmail.com](https://mattr.lee18@gmail.com)
+mattr.lee18@gmail.com
 
 (630) 404-2478
