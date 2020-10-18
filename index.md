@@ -22,6 +22,10 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 
 - ### Aug 2006-May 2010 - West Aurora High School
 
+  - Completed courses with a focus in computers
+  
+  - Favorite subject: Mathematics
+
 - ### Aug 2010-May 2018 - Waubonsee Community College
 
   - Started with a focus in mathematics
