@@ -40,7 +40,7 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 
 # ACADEMIC AWARDS
 
-###Feb 2018 - Certifacte from Workforce Development at Wabuonsee Community College for Python Developer Program(155-hour online program)
+### Feb 2018 - Certifacte from Workforce Development at Wabuonsee Community College for Python Developer Program(155-hour online program)
 
 # Contact Me
 mattr.lee18@gmail.com
