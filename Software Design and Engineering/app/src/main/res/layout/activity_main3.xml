@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:id="@+id/SMS_SIGNUP"
+        android:layout_width="327dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="72dp"
+        android:text="SMS SIGNUP TITLE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/Information"
+        android:layout_width="334dp"
+        android:layout_height="339dp"
+        android:text="This will contain information telling the user about what they get by signing up for the sms program
+"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="166dp" />
+
+    <Switch
+        android:id="@+id/sms"
+        android:layout_width="120dp"
+        android:layout_height="44dp"
+        android:text="Switch"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="537dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
