@@ -10,6 +10,8 @@ Computer Science has been something that I have always been interested in. Most 
 
 Currently, I am senior majoring in Computer Science with a concentration in Software Engineering at Southern New Hampshire University. I grew up in Aurora, Illinois and graduated from West Aurora High School in May 2010. To continue my education, I enrolled at Waubonsee Community College in the Fall of 2010 to pursue my associate degree in Mathematics. I was forced to take a step back from completing my degree to take care of my parents, which allowed me the opportunity to think about the career path I wanted to pursue. During that time, it brought me to the realization that computer programming was my true passion. Beginning in the Fall of 2014, I began my course schedule on a half-time basis at Waubonsee Community College to pursue my degree in Computer Science. In the Fall of 2018, I committed to that dream and enrolled at Southern New Hampshire University.
 
+<img src="images/stevejobs.png" />
+
 # CAREER GOALS AND OBJECTIVES
 
 First and foremost, for my career I want to complete my bachelor’s degree in Computer Science at Southern New Hampshire University. In addition to completing the degree, I plan on obtaining certificates or enhancing my education to help improve my skills as an engineer. These additional skills will provide the ability to advance my career and further my opportunities of meeting my future goals.  Another goal that I have is to work for a company that I feel passionate about and can really make a difference in the products they provide. I genuinely want to create something that makes a difference and helps people in their daily lives.
