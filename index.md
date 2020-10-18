@@ -1,3 +1,4 @@
+<img src="images/img_4915.jpg" />
 ## ABOUT ME
 
 Thank you for visiting my ePortfolio!
