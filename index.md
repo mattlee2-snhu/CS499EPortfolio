@@ -10,7 +10,9 @@ Computer Science has been something that I have always been interested in. Most 
 
 Currently, I am senior majoring in Computer Science with a concentration in Software Engineering at Southern New Hampshire University. I grew up in Aurora, Illinois and graduated from West Aurora High School in May 2010. To continue my education, I enrolled at Waubonsee Community College in the Fall of 2010 to pursue my associate degree in Mathematics. I was forced to take a step back from completing my degree to take care of my parents, which allowed me the opportunity to think about the career path I wanted to pursue. During that time, it brought me to the realization that computer programming was my true passion. Beginning in the Fall of 2014, I began my course schedule on a half-time basis at Waubonsee Community College to pursue my degree in Computer Science. In the Fall of 2018, I committed to that dream and enrolled at Southern New Hampshire University.
 
- ### "Everybody in this country should learn how to program a computer...because it teaches you how to think." -Steve Jobs
+ ### "Everybody in this country should learn how to program a computer...because it teaches you how to think." 
+ 
+ ### - Steve Jobs
 
 <img src="images/stevejobs.png" width="400" height="200"/>
 
