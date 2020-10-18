@@ -18,18 +18,18 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 
 ## ACADEMIC HISTORY
 
-### Aug2006-May2010 - West Aurora High School
+Aug 2006-May 2010 - West Aurora High School
 
-### Aug2010-May2018 - Waubonsee Community College
+Aug 2010-May 2018 - Waubonsee Community College
 
 
-### Aug2018-Present - Southern New Hampshire University
+Aug 2018-Present - Southern New Hampshire University
 
-## Academic Awards
+## ACADEMIC AWARDS
 
-### Feb 2018 - Certifacte from Workforce Development at Wabuonsee Community College for Python Developer Program(155-hour online program)
+Feb 2018 - Certifacte from Workforce Development at Wabuonsee Community College for Python Developer Program(155-hour online program)
 
 ## Contact Me
-[mattr.lee18@gmail.com](mattr.lee18@gmail.com)
+[mattr.lee18@gmail.com](https://mattr.lee18@gmail.com)
 
 (630) 404-2478
