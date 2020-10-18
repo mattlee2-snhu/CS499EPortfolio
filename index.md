@@ -13,6 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## CAREER GOALS AND OBJECTIVES
 
 Firstly, for my career I want to complete my bachelor’s in Computer Science at Southern New Hampshire University. As well as any other certificates or education that will help improve my skills as a programmer. From there I want to use those skills and knowledge that I have learned and apply them at a company that I feel passionate about and can really get behind the product they are creating. I want to create something that makes a difference and helps people in their daily lives.
+
 Now for my future goals, I want to be a Chief Technology Officer or Head of Engineering for top software engineering company. I also want to be apart of a project that will change peoples lives and the software or product will be something that everyone uses.
 
 
