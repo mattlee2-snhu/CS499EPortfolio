@@ -1,4 +1,6 @@
-## Welcome!
+## About Me
+
+Thank you for visiting my ePortfolio!
 
 
 
