@@ -1,3 +1,5 @@
+<img src="images/welcome.png" />
+
 # ABOUT ME
 
 <img src="images/IMG_4915.JPG" width="150" height="200"/>
