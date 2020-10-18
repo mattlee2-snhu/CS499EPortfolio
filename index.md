@@ -24,7 +24,6 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 
 ### Aug 2010-May 2018 - Waubonsee Community College
 
-
 - ### Aug 2018-Present - Southern New Hampshire University
 
   - Concentration in software engineering
