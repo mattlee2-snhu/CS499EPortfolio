@@ -16,19 +16,19 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 
 # ACADEMIC HISTORY
 
-- ### Aug 2006-May 2010 - West Aurora High School
+### Aug 2006-May 2010 - West Aurora High School
 
   - Completed courses with a focus in computers
   
   - Favorite subject: Mathematics
 
-- ### Aug 2010-May 2018 - Waubonsee Community College
+### Aug 2010-May 2018 - Waubonsee Community College
 
   - Started with a focus in mathematics
   
   - Transitioned into computer science in fall 2014
 
-- ### Aug 2018-Present - Southern New Hampshire University
+### Aug 2018-Present - Southern New Hampshire University
 
   - Concentration in software engineering
   
