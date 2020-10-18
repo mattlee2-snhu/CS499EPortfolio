@@ -8,10 +8,6 @@ Computer Science has been something that I have always been interested in, my mo
 
 Currently, I am senior majoring in Computer Science with a concentration in Software Engineering at Southern New Hampshire University. I grew up in Aurora, Illinois and graduated from West Aurora High School in May 2010. After West Aurora, I proceeded to go to Waubonsee Community in the Fall of 2010 to pursue my associate degree in Mathematics. I was forced to take a step back from my degree to take care of my parents, but it allowed me the opportunity to think about my career and what I wanted to pursue, which brought me to realizing that computers were my true passion and were something that I wanted to pursue, so in fall 2014 I began retaking courses at a reduced rate at Waubonsee Community College to pursue my degree in Computer Science. In the Fall of 2018 I committed to that dream and enrolled at Southern New Hampshire University.
 
-You can use the [editor on GitHub](https://github.com/mattlee2-snhu/CS499EPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # CAREER GOALS AND OBJECTIVES
 
 Firstly, for my career I want to complete my bachelor’s in Computer Science at Southern New Hampshire University. As well as any other certificates or education that will help improve my skills as an engineer. From there I want to use those skills and knowledge that I have learned and apply them at a company that I feel passionate about and can really get behind the product they are creating. I want to create something that makes a difference and helps people in their daily lives.
