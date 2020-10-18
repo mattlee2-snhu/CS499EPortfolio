@@ -1,4 +1,4 @@
-## ABOUT ME
+# ABOUT ME
 
 <img src="images/IMG_4915.JPG" width="150" height="200"/>
 
@@ -12,20 +12,21 @@ You can use the [editor on GitHub](https://github.com/mattlee2-snhu/CS499EPortfo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## CAREER GOALS AND OBJECTIVES
+# CAREER GOALS AND OBJECTIVES
 
 Firstly, for my career I want to complete my bachelor’s in Computer Science at Southern New Hampshire University. As well as any other certificates or education that will help improve my skills as an engineer. From there I want to use those skills and knowledge that I have learned and apply them at a company that I feel passionate about and can really get behind the product they are creating. I want to create something that makes a difference and helps people in their daily lives.
 
 Now for my future goals, I want to be a Chief Technology Officer or Head of Engineering for top software engineering company. I also want to be the Head of a project that has an impact in peoples lives and is something that people use everyday. Financially my goal is to be able to support myself and my significant other as well as my parents if they need financial help
 
-## ACADEMIC HISTORY
+# ACADEMIC HISTORY
 
-Aug 2006-May 2010 - West Aurora High School
+### Aug 2006-May 2010 - West Aurora High School
 
-Aug 2010-May 2018 - Waubonsee Community College
+### Aug 2010-May 2018 - Waubonsee Community College
 
 
-Aug 2018-Present - Southern New Hampshire University
+### Aug 2018-Present - Southern New Hampshire University
+
   i. Concentration in software engineering
   
   ii. Developed security strategies to create error free code
