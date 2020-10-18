@@ -17,13 +17,13 @@ Firstly, for my career I want to complete my bachelor’s in Computer Science at
 Now for my future goals, I want to be a Chief Technology Officer or Head of Engineering for top software engineering company. I also want to be apart of a project that will change peoples lives and the software or product will be something that everyone uses.
 
 
-## Academic History
+## ACADEMIC HISTORY
 
-## 2006-2010 - West Aurora High School
+### 2006-2010 - West Aurora High School
 
-## 2010-2018 - Waubonsee Community College
+### 2010-2018 - Waubonsee Community College
 
-## 2018-Present – Southern New Hampshire University
+### 2018-Present – Southern New Hampshire University
 
 	### Concentration in software engineering
 
