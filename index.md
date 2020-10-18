@@ -1,4 +1,4 @@
-<img src="images/IMG_4915.jpg" />
+<img src="images/IMG_4915.JPG" />
 ## ABOUT ME
 
 Thank you for visiting my ePortfolio!
