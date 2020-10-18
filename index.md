@@ -1,4 +1,6 @@
-## ABOUT ME <img src="images/IMG_4915.JPG" width="200" height="250"/>
+## ABOUT ME
+
+<img src="images/IMG_4915.JPG" width="200" height="250"/>
 
 Thank you for visiting my ePortfolio!
 
