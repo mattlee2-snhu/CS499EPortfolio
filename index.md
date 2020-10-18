@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello Everyone and Welcome!
 
 You can use the [editor on GitHub](https://github.com/mattlee2-snhu/CS499EPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
