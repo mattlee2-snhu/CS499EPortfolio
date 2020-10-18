@@ -1,19 +1,30 @@
-## About Me
+## ABOUT ME
 
 Thank you for visiting my ePortfolio!
 
+Computer Science has been something that I have always been interested in, my mom has worked for a software developer for twenty-eight years. From sitting on her lap while she would talk to her colleagues about their best approach to keeping companies under license to providing executives with feedback from the customer.  So, computers and software was something that I have been around from a young age I was one of the first kids in my neighbor to have my own computer because my mom didn’t want me to use her so she could work in peace. I remember my friends coming over to play the newest PC games as well as use our internet because again we were one of the first to not have dial up internet.
 
+Currently, I am senior majoring in Computer Science with a concentration in Software Engineering at Southern New Hampshire University. I grew up in Aurora, Illinois and graduated from West Aurora High School in May 2010. After West Aurora, I proceeded to go to Waubonsee Community in the Fall of 2010 to pursue my associate’s degree in Computer Science.
 
 You can use the [editor on GitHub](https://github.com/mattlee2-snhu/CS499EPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Career Goals and Objectives
+## CAREER GOALS AND OBJECTIVES
+
+Firstly, for my career I want to complete my bachelor’s in Computer Science at Southern New Hampshire University. As well as any other certificates or education that will help improve my skills as a programmer. From there I want to use those skills and knowledge that I have learned and apply them at a company that I feel passionate about and can really get behind the product they are creating. I want to create something that makes a difference and helps people in their daily lives.
+Now for my future goals, I want to be a Chief Technology Officer or Head of Engineering for top software engineering company. I also want to be apart of a project that will change peoples lives and the software or product will be something that everyone uses.
+
 
 ## Academic History
 
-Upon entering high school, I really had no idea what I wanted to do for a career. Obviously, every kid wants to be a doctor or a fire fighter, but I quickly realized those dreams were not what I wanted to do for a career. During my sophomore year in high school, I enrolled in a culinary class and considered pursuing a career in culinary arts. However, after taking more classes such as Foods 1 to 3, having the opportunity to enter into my high schools’ culinary program and receiving a recommendation by my Foods teacher, this brought me to the realization that I enjoyed cooking as more of a hobby than a career. As I entered college, I still was unsure of what I wanted to do for a career, but as a kid and even now, I have always loved math. Math was my strongest subject in school and to this day is something that I just enjoy. Therefore, I decided to pursue that as a career and become a mathematician. Again, after a few classes in college, I realized that even though I love math it is not something I want to deal with on a day-to-day basis.  However, along with being enrolled in my community colleges math program, I was enrolled into Intro to Programming. After that course, my love for computer science and computer programming really peaked my interest. I realized that it was something that I truly enjoyed by thinking about how to lay out a program or just simply listening to my teacher talk about programming and learning something new every lecture. I knew I had found my passion and I have remained hooked ever since. Thus leading me into computer science and my decision to choose a career path in this field. Firstly, I am an avid gamer, love video games and everything about them.  I have even considered wanting to try to create them. While taking a game development class, I slowly realized even though I love everything about video games creating and designing them just was not for me. It did however make me realize that it was not a path I wanted to follow, but I still was passionate about programming. So, I continued down that path of taking programming class after programming class honing my craft and skill as a programmer.
+2006-2010 - West Aurora High School
+2010-2018 - Waubonsee Community College
+2018-2020 – Southern New Hampshire University
+		3.548 GPA
 
 ## Academic Awards
 
-## Contact
+## Contact Me
+mattr.lee18@gmail.com
+(630) 404-2478
