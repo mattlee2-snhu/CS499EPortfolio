@@ -12,8 +12,10 @@ Currently, I am senior majoring in Computer Science with a concentration in Soft
 
 <br>
 <br>
+
 ### *"Everybody in this country should learn how to program a computer...because it teaches you how to think."*
 ##### - Steve Jobs
+
 <br>
 <br>
 
