@@ -19,13 +19,13 @@ Now for my future goals, I want to be a Chief Technology Officer or Head of Engi
 
 ## Academic History
 
-2006-2010 - West Aurora High School
+## 2006-2010 - West Aurora High School
 
-2010-2018 - Waubonsee Community College
+## 2010-2018 - Waubonsee Community College
 
-2018-Present – Southern New Hampshire University
+## 2018-Present – Southern New Hampshire University
 
-	Concentration in software engineering
+	### Concentration in software engineering
 
 ## Academic Awards
 
