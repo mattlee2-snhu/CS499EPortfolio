@@ -1,6 +1,6 @@
 <img src="images/welcome.png" />
 
-# ABOUT ME
+## ABOUT ME
 
 <img src="images/IMG_4915.JPG" width="150" height="200"/>
 
@@ -17,7 +17,7 @@ Currently, I am senior majoring in Computer Science with a concentration in Soft
 
 <br>
 
-# CAREER GOALS AND OBJECTIVES
+## CAREER GOALS AND OBJECTIVES
 
 First and foremost, for my career I want to complete my bachelor’s degree in Computer Science at Southern New Hampshire University. In addition to completing the degree, I plan on obtaining certificates or enhancing my education to help improve my skills as an engineer. These additional skills will provide the ability to advance my career and further my opportunities of meeting my future goals.  Another goal that I have is to work for a company that I feel passionate about and can really make a difference in the products they provide. I genuinely want to create something that makes a difference and helps people in their daily lives.
 
@@ -29,7 +29,7 @@ My main objective would be to apply computer science theory and software develop
 
 <br>
 
-# ACADEMIC HISTORY
+## ACADEMIC HISTORY
 
 ### Aug 2006-May 2010 - West Aurora High School
 
@@ -51,13 +51,13 @@ My main objective would be to apply computer science theory and software develop
 
 <br>
 
-# ACADEMIC AWARDS
+## ACADEMIC AWARDS
 
  Feb 2018 - Certificate from Workforce Development at Wabuonsee Community College for Python Developer Program (155-hour online program)
  
 <br>
 
-# CONTACT ME
+## CONTACT ME
 mattr.lee18@gmail.com
 
 (630) 404-2478
