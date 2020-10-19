@@ -27,6 +27,7 @@ Financially my goal is to be able to support myself, my significant other as wel
 
 My main objective would be to apply computer science theory and software development fundamentals to produce computer-based solutions.
 
+
 # ACADEMIC HISTORY
 
 ### Aug 2006-May 2010 - West Aurora High School
@@ -52,6 +53,7 @@ My main objective would be to apply computer science theory and software develop
 # ACADEMIC AWARDS
 
  Feb 2018 - Certificate from Workforce Development at Wabuonsee Community College for Python Developer Program (155-hour online program)
+ 
 
 # Contact Me
 mattr.lee18@gmail.com
