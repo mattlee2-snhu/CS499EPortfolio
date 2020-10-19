@@ -26,6 +26,7 @@ After 20 years of working in the Computer Science industry, my goal is to become
 Financially my goal is to be able to support myself, my significant other as well as my parents, if they need financial help.
 
 My main objective would be to apply computer science theory and software development fundamentals to produce computer-based solutions.
+
 <br>
 
 # ACADEMIC HISTORY
