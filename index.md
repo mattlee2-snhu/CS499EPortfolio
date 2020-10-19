@@ -31,21 +31,23 @@ My main objective would be to apply computer science theory and software develop
 
 ### Aug 2006-May 2010 - West Aurora High School
 
-  - Completed courses with a focus in computers
-  
-  - Favorite subject: Mathematics
-
 ### Aug 2010-May 2018 - Waubonsee Community College
 
-  - Started with a focus in mathematics
+  - Learned programming languages: Python, Java and C++
   
-  - Transitioned into computer science in fall 2014
+  - Completed courses in database management as well as database security
+  
+  - Developed basic fundamentals of good programming
 
 ### Aug 2018-Present - Southern New Hampshire University
 
-  - Concentration in software engineering
+  - Learned programming languages: Assembly and Kotlin
   
-  - Developed security strategies to create error free code
+  - Completed courses in coding security and AGILE
+  
+  - Created advanced programs that worked with 3D objects
+
+
 
 # ACADEMIC AWARDS
 
