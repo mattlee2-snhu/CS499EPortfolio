@@ -53,7 +53,9 @@ My main objective would be to apply computer science theory and software develop
 
 ## ACADEMIC AWARDS
 
+
  ##### Feb 2018 - Certificate from Workforce Development at Wabuonsee Community College for Python Developer Program (155-hour online program)
+ 
  
 <br>
 
