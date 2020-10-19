@@ -35,7 +35,7 @@ My main objective would be to apply computer science theory and software develop
 
 ##### Aug 2010-May 2018 - Waubonsee Community College
 
-	Learned programming languages: Python, Java and C++
+  - Learned programming languages: Python, Java and C++
   
   - Completed courses in database management as well as database security
   
