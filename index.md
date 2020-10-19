@@ -31,9 +31,9 @@ My main objective would be to apply computer science theory and software develop
 
 # ACADEMIC HISTORY
 
-#### Aug 2006-May 2010 - West Aurora High School
+### Aug 2006-May 2010 - West Aurora High School
 
-#### Aug 2010-May 2018 - Waubonsee Community College
+### Aug 2010-May 2018 - Waubonsee Community College
 
   - Learned programming languages: Python, Java and C++
   
@@ -41,7 +41,7 @@ My main objective would be to apply computer science theory and software develop
   
   - Developed basic fundamentals of good programming
 
-#### Aug 2018-Present - Southern New Hampshire University
+### Aug 2018-Present - Southern New Hampshire University
 
   - Learned programming languages: Assembly and Kotlin
   
