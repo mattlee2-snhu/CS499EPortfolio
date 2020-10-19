@@ -57,7 +57,7 @@ My main objective would be to apply computer science theory and software develop
  
 <br>
 
-# Contact Me
+# CONTACT ME
 mattr.lee18@gmail.com
 
 (630) 404-2478
